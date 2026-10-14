@@ -18,7 +18,7 @@ const projects = [
     description:
       "A modern website inspired by Significo, featuring smooth scroll-based animations, transitions, and interactive UI elements using GSAP.",
     tech: ["JavaScript", "Tailwind CSS", "GSAP"],
-    demo: "https://significco.netlify.app/",
+    demo: "https://animated-significco.vercel.app/",
     github: "https://github.com/rakeshparihaar12/Animated-Significco",
   },
   {
@@ -27,8 +27,8 @@ const projects = [
     description:
       "A responsive task management application that lets users add, complete, manage, and delete tasks through a simple interface.",
     tech: ["HTML", "CSS3", "JavaScript"],
-    demo: "https://rakesh-todo-app.netlify.app/",
-    github: "https://todo-5sf0drdf0-rakeshparihaar12s-projects.vercel.app/",
+    demo: "https://todo-app-delta-two-80.vercel.app/",
+    github: "https://github.com/rakeshparihaar12/Todo-App-Javascrip",
   },
   {
     title: "Weather App",
